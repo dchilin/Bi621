@@ -2,10 +2,10 @@
 Bi 621 Summer 2018 - Tentative Syllabus
 
 ## General Course Information
-Instructor | Bioinformalitian | Bioinformalitian 
----|---|---
-Dr. Leslie Coonrod | Peter Batzel | Jason Sydes
-coonrod@uoregon.edu | pbatzel@uoregon.edu | sydes@uoregon.edu
+Instructor | Bioinformalitian | Bioinformalitian | GE | GE 
+---|---|---|---|---
+Dr. Leslie Coonrod | Peter Batzel | Jason Sydes | Claire Goodfellow | Ryan Meng
+coonrod@uoregon.edu | pbatzel@uoregon.edu | sydes@uoregon.edu | cgoodfel@uoregon.edu | rmeng@uoregon.edu
 
 ### Class meetings
 **MTWHF** 10AM - 12PM and 1:30PM - 4PM **B042 PSC**
