@@ -1,6 +1,6 @@
 # 2018_Bi621
 
-Learning materials from 2018 Bi621.
+Be sure to follow the directions in [Git course setup](https://github.com/Leslie-C/2018_Bi621/blob/master/Resources/Git_course_setup.md) to properly set up your own git repository of the class.
 
 Assigment | Due Date | Link
 ---|---|---
