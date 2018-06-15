@@ -81,12 +81,12 @@ You're now ready to clone the repository onto your machine. Navigate to the dire
 	To https://github.com/Leslie-C/2018_Bi621
 	   9231e8d..47fba44  master -> master
 	```
-7. From now on, you can just issue ```git push``` without the arguments. Try it out!
+7. From now on, you can just issue ```git push``` without the arguments to push your changes to your online (github) repository. Try it out!
 	```
 	$ git push
 		Everything up-to-date
 	```
-8. As new materials are added, be sure to
+8. As new materials are added to the course repository, be sure to
 	```
 	$ git pull upstream master
 	```
