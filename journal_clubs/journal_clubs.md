@@ -37,13 +37,13 @@ Adapted from [Dr. M William Lensch](https://www.novartis.com/stories/education/1
 
 Reflect on the following points while reading the journal article and then briefly answer the following questions. Short format answers are acceptable.
 
-1.	(3 points) Overview
+1.	(2 points) Overview
     1. What is the main idea that the authors would like to convey?
     2. Were they successful? (e.g. Were the data sufficient? Did they over-interpret their results?)
     3. Was there a clearly stated hypothesis?
-2.	(2 points) The data:
-    1. Are the data reproducible and/or accessible?
-    2. Were sufficient controls employed (if applicable)?
+2.	(3 points) The data:
+    1. Are the data reproducible and/or accessible? How did the authors achive this/not achive this?
+    2. Were sufficient controls employed (if applicable)? What were the controls, were they used appropriately?
 3.	(2 points) Were the methods appropriate to address the authors' questions?
 4.	(2 points) Were there experiments or analyses they didn’t do that could make the data more convincing?  
 5.	(1 point) Did the authors' increase confidence in the outcome by supporting their results in multiple ways? 
