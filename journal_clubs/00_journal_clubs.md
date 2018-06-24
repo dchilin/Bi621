@@ -4,7 +4,7 @@ We will have 3 days of Journal club presentations. Journal club takes place Frid
 
 | Week | Groups presenting | First paper | Second paper |
 |---|:----:|:---:|:---:|
-| Friday, June 29 | Platypus and 2 | [Lamichhaney_2015](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/01_Lamichhaney_2015.pdf) | [Boyle_2017](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/02_Boyle_2017.pdf) |
+| Friday, June 29 | Platypus and Team Rocket | [Lamichhaney_2015](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/01_Lamichhaney_2015.pdf) | [Boyle_2017](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/02_Boyle_2017.pdf) |
 | Friday, July 6 | Anas platyrhynchos and 4 |  |  |
 | Friday, July 13 | 5 and 6 |  |  |
 | Wednesday, July 18 | 7 |  |  |
