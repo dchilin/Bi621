@@ -1,6 +1,6 @@
 # Journal Club Expectations
 
-We will have 3 days of Journal club presentations. Journal club takes place Friday afternoons from 2PM - 4PM. Two papers will be presented each week.
+We will have 4 days of Journal club presentations. Journal club takes place Friday afternoons from 2PM - 4PM. Two papers will be presented each week.
 
 | Week | Groups presenting | First paper | Second paper |
 |---|:----:|:---:|:---:|
@@ -35,7 +35,7 @@ Everyone not presenting a particular paper should turn in an executive summary o
 
 Adapted from [Dr. M William Lensch](https://www.novartis.com/stories/education/10-big-questions-dissect-science-papers)
 
-Reflect on the following points while reading the journal article and then briefly answer the following questions. Short format answers are acceptable.
+Reflect on the following points while reading the journal article and then briefly answer the following questions. Short format answers are acceptable. Executive summaries should be uploaded to Canvas **before** 1:30 PM.
 
 1.	(2 points) Overview
     1. What is the main idea that the authors would like to convey?
@@ -57,5 +57,5 @@ Only for discussion, consider the following:
 ## Grading
 Journal clubs will be worth 15% of the course grade broken down as follows:
 - 1/3 Presentation: 1 presentation during the course of the class
-- 1/3 Participation: over all 3 journal clubs
-- 1/3 Executive summary: each student will write 3 executive summaries
+- 1/3 Participation: over all 4 journal clubs
+- 1/3 Executive summary: each student will write 6 executive summaries
