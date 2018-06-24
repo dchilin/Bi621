@@ -6,8 +6,8 @@ We will have 3 days of Journal club presentations. Journal club takes place Frid
 |---|:----:|:---:|:---:|
 | Friday, June 29 | Platypus and Team Rocket | [Lamichhaney_2015](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/01_Lamichhaney_2015.pdf) | [Boyle_2017](https://github.com/Leslie-C/2018_Bi621/blob/master/journal_clubs/02_Boyle_2017.pdf) |
 | Friday, July 6 | Anas platyrhynchos and Triple A |  |  |
-| Friday, July 13 | 5 and 6 |  |  |
-| Wednesday, July 18 | 7 |  |  |
+| Friday, July 13 | The Chefs and 12345678910 |  |  |
+| Wednesday, July 18 | Hyenas |  |  |
 
 ## Purpose
 The goal of this assignment is to help you practice the following skills that are essential to your success in this course and your future career in bioinformatics.
