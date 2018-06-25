@@ -5,7 +5,7 @@ Be sure to follow the directions in [Git course setup](https://github.com/Leslie
 Assigment | Due Date | Link
 ---|---|---
 ICA1 | Wed, June 27, 10 AM | https://classroom.github.com/a/3JNTwRbN
-ICA2 | Wed, June 27, 10 AM |
+ICA2 | Wed, June 27, 10 AM | https://classroom.github.com/a/aQAIrB-W
 ICA3 | Mon, July 2, 10 AM | 
 ICA4 | Mon, July 2, 10 AM |
 PS1 | Mon, July 2, 10 AM |
