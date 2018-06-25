@@ -40,7 +40,7 @@ Students should keep a lab notebook (either digitally or on paper) to be turned 
 ### Group presentations
 Friday afternoons will be journal club-style group presentations on assigned papers (5% of grade). Students are responsible for reading all assigned papers, for writing up an “executive summary” for papers they are not involved in presenting (5% of grade), and for participating in discussing the paper during the journal club (5% of grade). – **15% of grade**
 
-#### Preaparing and submitting assignments
+#### Preparing and submitting assignments
 The information required to complete all in-class assignments and problem sets will be given in class. If you find yourself googling how to write a piece of code, you are most likely going about the problem wrong. You must be able to describe how any piece of code you turn in operates.
 
 Students are encouraged to work together and share information. Some students will have a higher skill level than others, and we encourage those students with more experience to help their peers. **However, no direct sharing of code is allowed – each student must write their own code.**
